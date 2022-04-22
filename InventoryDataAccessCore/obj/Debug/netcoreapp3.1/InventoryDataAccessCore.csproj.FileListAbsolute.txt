@@ -1,0 +1,12 @@
+C:\inetpub\wwwroot\InventoryApi\InventoryDataAccessCore\bin\Debug\netcoreapp3.1\InventoryDataAccessCore.deps.json
+C:\inetpub\wwwroot\InventoryApi\InventoryDataAccessCore\bin\Debug\netcoreapp3.1\InventoryDataAccessCore.runtimeconfig.json
+C:\inetpub\wwwroot\InventoryApi\InventoryDataAccessCore\bin\Debug\netcoreapp3.1\InventoryDataAccessCore.runtimeconfig.dev.json
+C:\inetpub\wwwroot\InventoryApi\InventoryDataAccessCore\bin\Debug\netcoreapp3.1\InventoryDataAccessCore.dll
+C:\inetpub\wwwroot\InventoryApi\InventoryDataAccessCore\bin\Debug\netcoreapp3.1\InventoryDataAccessCore.pdb
+C:\inetpub\wwwroot\InventoryApi\InventoryDataAccessCore\obj\Debug\netcoreapp3.1\InventoryDataAccessCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\InventoryApi\InventoryDataAccessCore\obj\Debug\netcoreapp3.1\InventoryDataAccessCore.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\InventoryApi\InventoryDataAccessCore\obj\Debug\netcoreapp3.1\InventoryDataAccessCore.AssemblyInfo.cs
+C:\inetpub\wwwroot\InventoryApi\InventoryDataAccessCore\obj\Debug\netcoreapp3.1\InventoryDataAccessCore.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\InventoryApi\InventoryDataAccessCore\obj\Debug\netcoreapp3.1\InventoryDataAccessCore.dll
+C:\inetpub\wwwroot\InventoryApi\InventoryDataAccessCore\obj\Debug\netcoreapp3.1\InventoryDataAccessCore.pdb
+C:\inetpub\wwwroot\InventoryApi\InventoryDataAccessCore\obj\Debug\netcoreapp3.1\InventoryDataAccessCore.genruntimeconfig.cache
